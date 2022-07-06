@@ -13,7 +13,7 @@
         "hoa/compiler": "~2.15",
         "hoa/visitor": "~1.15",
         "collectiveaccess/service-wrapper": "v1.1",
-        "phpoffice/phppresentation": "dev-master",
+        "phpoffice/phppowerpoint": "dev-master",
         "phpoffice/phpword": "v0.13.*"
     },
     "require-dev": {
